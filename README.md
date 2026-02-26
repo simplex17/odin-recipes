@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a website that list recipes, made to practice my HTML knowledge. Consists of a main index page, with links to a few recipes.
